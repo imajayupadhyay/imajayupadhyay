@@ -1,16 +1,39 @@
-## I Am A Full Stack Developer With Devops 👋
+🚀 Ajay Upadhyay | DevOps Engineer
+👋 Hi there! I'm Ajay Upadhyay, a passionate DevOps Engineer with expertise in automation, cloud infrastructure, and full-stack web development. I specialize in CI/CD, AWS, Docker, Kubernetes, Terraform, and Ansible, ensuring seamless deployment pipelines and scalable infrastructure.
 
-<!--
-**imajayupadhyay/imajayupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Connect with Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠 Tech Stack
+🚀 DevOps & Cloud
+
+
+
+
+
+
+
+
+💻 Programming & Scripting
+
+
+
+🌍 Web Development
+
+
+
+
+
+
+🏗 Infrastructure & Databases
+
+
+📊 GitHub Stats
+
+
+🏆 GitHub Trophies
+
+💡 Fun Fact
+🚀 I love automating everything and ensuring smooth collaboration between Development & Operations!
+
