@@ -4,15 +4,6 @@
 
 ---
 
-## 🌍 **Connect with Me**  
-<p>
-  <a href="https://www.linkedin.com/in/ajay-upadhyay-webdev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
 ## 🛠 **Tech Stack**  
 
 ### 🚀 **DevOps & Cloud**  
