@@ -79,25 +79,6 @@ Hey there! 👋 I'm **Ajay Upadhyay**, a passionate **DevOps Engineer** dedicate
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" height="165">
-</div>
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔭 Building scalable microservices architectures on Kubernetes
-- 🌱 Exploring advanced Azure DevOps pipelines and AKS
-- 👯 Contributing to open-source DevOps tools
-- 💬 Sharing knowledge through technical blogs and documentation
-
----
 
 ## 📫 Let's Connect!
 
@@ -110,10 +91,4 @@ I'm always excited to collaborate on interesting projects or discuss DevOps prac
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views">
-  
-  ### ⭐️ From [Ajay Upadhyay](https://github.com/YOUR_GITHUB_USERNAME)
-</div>
